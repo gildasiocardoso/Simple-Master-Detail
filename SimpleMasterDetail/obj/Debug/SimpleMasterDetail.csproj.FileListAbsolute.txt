@@ -1,0 +1,10 @@
+D:\GILDASIO\Portfolio\SimpleMasterDetail\bin\Debug\SimpleMasterDetail.exe.config
+D:\GILDASIO\Portfolio\SimpleMasterDetail\bin\Debug\SimpleMasterDetail.exe
+D:\GILDASIO\Portfolio\SimpleMasterDetail\bin\Debug\SimpleMasterDetail.pdb
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.FormMain.resources
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.Properties.Resources.resources
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.csproj.GenerateResource.cache
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.csproj.CoreCompileInputs.cache
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.exe
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.pdb
+D:\GILDASIO\Portfolio\SimpleMasterDetail\obj\Debug\SimpleMasterDetail.csprojAssemblyReference.cache
